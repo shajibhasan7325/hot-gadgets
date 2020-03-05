@@ -1,0 +1,33 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.container{
+    margin-bottom: 50px;
+}
+.nav-item{
+    padding-left:20px;
+}
+
+.carousel-item{
+    padding: 20px 40px;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #000000 0%,#000000 100%);
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.me{
+    float: left;
+    overflow: hidden;
+    padding-bottom: 0px;
+}
+.arrow-icon{
+    float: right;
+}
+.mee{
+    padding-bottom: 0px;
+}
